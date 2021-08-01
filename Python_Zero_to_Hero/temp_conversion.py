@@ -1,4 +1,5 @@
 #temperature conversion from celsius to fahrenheit and vice versa.
+!pip install pytemp  #this line is to install pytemp library in colab
 from pytemp import pytemp
 choice=int(input("enter 1 for celsius to fahrenheit or 2 for fahrenheit to celsius:"))
 if(choice == 1):
