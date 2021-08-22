@@ -3,7 +3,7 @@
 
 
     
-    ![Screenshot from 2021-08-22 14-05-44](https://user-images.githubusercontent.com/52309838/130348087-fdeb90e8-4c65-4674-af2c-7af357d2ba11.png)
+   ![Screenshot from 2021-08-22 14-05-44](https://user-images.githubusercontent.com/52309838/130348087-fdeb90e8-4c65-4674-af2c-7af357d2ba11.png)
     
     
 **day3 assignmennt:**
